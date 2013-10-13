@@ -1,0 +1,9 @@
+h1. A really simple chat client
+
+This is a simple chat client with multithreading.
+
+The client was written in about 10 minutes after the author got fed up with C#'s socket handling. Hey, it was a code sprint after all! :)
+
+h2. Authors
+
+* Shaun Whitely
